@@ -2,6 +2,12 @@
 
 A modern, competitive trivia game where players go head-to-head in knowledge-based duels. With its sleek mobile interface and dynamic scoring system, players can engage in exciting rounds of questions while tracking their progress in real-time.
 
+<div align="center">
+  <img src="preview.png" alt="Trivia Duel Game Interface Preview" width="100%" />
+  
+  *Multiple game screens showing the trivia duel interface, including player turns, question rounds, and scoring system*
+</div>
+
 ## Features
 
 - **1v1 Duels**: Direct player-versus-player competition format
